@@ -1,0 +1,60 @@
+{
+  "name": "Fusionz Ultimate Repo",
+  "identifier": "com.fusionz.repo",
+  "sourceURL": "https://yourusername.github.io/fusionz-repo/apps.json",
+  "apps": [
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic Game Emulator",
+      "version": "1.6",
+      "versionDate": "2025-09-20",
+      "versionDescription": "Added new N64 support and bug fixes.",
+      "downloadURL": "https://yourusername.github.io/fusionz-repo/Delta.ipa",
+      "iconURL": "https://yourusername.github.io/fusionz-repo/icons/delta.png",
+      "localizedDescription": "Delta is a powerful and flexible emulator for iOS devices, supporting multiple classic consoles."
+    },
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Modded Team",
+      "subtitle": "Enhanced Spotify Client",
+      "version": "8.9.0",
+      "versionDate": "2025-09-20",
+      "versionDescription": "Unlocked premium features.",
+      "downloadURL": "https://yourusername.github.io/fusionz-repo/SpotifyPlus.ipa",
+      "iconURL": "https://yourusername.github.io/fusionz-repo/icons/spotify.png",
+      "localizedDescription": "Spotify++ brings enhanced features and customization options to the official Spotify client."
+    }
+  ],
+  "news": [
+    {
+      "title": "🚀 Welcome to Fusionz Repo!",
+      "identifier": "welcome-fusionz",
+      "caption": "Your new source for emulators and modded apps.",
+      "date": "2025-09-20",
+      "tintColor": "blue",
+      "imageURL": "https://yourusername.github.io/fusionz-repo/news/welcome.png",
+      "url": "https://yourusername.github.io/fusionz-repo"
+    },
+    {
+      "title": "🎮 Delta Emulator Updated",
+      "identifier": "delta-1.6-release",
+      "caption": "Now with N64 support and improved performance.",
+      "date": "2025-09-19",
+      "tintColor": "purple",
+      "imageURL": "https://yourusername.github.io/fusionz-repo/news/delta.png",
+      "url": "https://deltaemulator.com"
+    },
+    {
+      "title": "🎵 Spotify++ Added",
+      "identifier": "spotify-plus-added",
+      "caption": "Enjoy music without ads and more features.",
+      "date": "2025-09-18",
+      "tintColor": "green",
+      "imageURL": "https://yourusername.github.io/fusionz-repo/news/spotify.png",
+      "url": "https://spotify.com"
+    }
+  ]
+}
