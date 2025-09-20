@@ -1,7 +1,7 @@
 {
-  "name": "Fusionz Ultimate Repo",
+  "name": "Fusionz Ipa Repo",
   "identifier": "com.fusionz.repo",
-  "sourceURL": "https://yourusername.github.io/fusionz-repo/apps.json",
+  "sourceURL": "https://Pokelevel17.github.io/fusionz-repo/apps.json",
   "apps": [
     {
       "name": "Ksign",
@@ -34,12 +34,11 @@
   ],
   "news": [
     {
-      "title": "🚀 Welcome to Fusionz Repo!",
+      "title": "🚀 Welcome to Fusionz Ipa Repo!",
       "identifier": "welcome-fusionz",
-      "caption": "Your new source for emulators and modded apps.",
+      "caption": "One Of The Best Sources For Emulators And Ipa's!.",
       "date": "2025-09-20",
       "tintColor": "#6495ED",
-      "imageURL": "https://yourusername.github.io/fusionz-repo/news/welcome.png",
       "url": "https://github.com/Pokelevel17/Fusionz-ipa-repo"
     }
   ]
