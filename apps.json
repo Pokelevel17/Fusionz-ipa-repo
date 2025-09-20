@@ -38,27 +38,9 @@
       "identifier": "welcome-fusionz",
       "caption": "Your new source for emulators and modded apps.",
       "date": "2025-09-20",
-      "tintColor": "blue",
+      "tintColor": "#6495ED",
       "imageURL": "https://yourusername.github.io/fusionz-repo/news/welcome.png",
       "url": "https://yourusername.github.io/fusionz-repo"
-    },
-    {
-      "title": "🎮 Delta Emulator Updated",
-      "identifier": "delta-1.6-release",
-      "caption": "Now with N64 support and improved performance.",
-      "date": "2025-09-19",
-      "tintColor": "purple",
-      "imageURL": "https://yourusername.github.io/fusionz-repo/news/delta.png",
-      "url": "https://deltaemulator.com"
-    },
-    {
-      "title": "🎵 Spotify++ Added",
-      "identifier": "spotify-plus-added",
-      "caption": "Enjoy music without ads and more features.",
-      "date": "2025-09-18",
-      "tintColor": "green",
-      "imageURL": "https://yourusername.github.io/fusionz-repo/news/spotify.png",
-      "url": "https://spotify.com"
     }
   ]
 }
