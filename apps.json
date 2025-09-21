@@ -7,7 +7,7 @@
   "apps": [
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
       "developerName": "Riley Testut",
       "subtitle": "Classic Game Emulator",
       "version": "1.6",
@@ -17,7 +17,7 @@
       "localizedDescription": "Delta is a powerful and flexible emulator for iOS devices, supporting multiple classic consoles including Game Boy, Game Boy Advance, NES, SNES, N64, and more.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delta_Emulator_Logo.jpg",
       "tintColor": "#7532a8",
-      "size": 840000000
+      "size": 84000000
     },
     {
       "name": "LiveContainer",
