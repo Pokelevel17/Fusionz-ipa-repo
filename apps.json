@@ -20,18 +20,18 @@
       "size": 84000000
     },
     {
-      "name": "Rewound",
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "subtitle": "iPod-style Music Player",
-      "version": "2019.8",
-      "versionDate": "2020-03-24",
-      "versionDescription": "Minor release with bug fixes, smoother scrolling, and improved skin support.",
-      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/Rewound.ipa",
-      "localizedDescription": "Rewound is a customizable iPod-style music player for iOS. It lets you bring back the classic iPod interface, apply skins, and control your music with a nostalgic design.",
-      "iconURL": "https://archive.org/download/rewound/Rewound17.png",
-      "tintColor": "#FFFFFF",
-      "size": 110000000
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "Henrik Rydgård",
+      "subtitle": "PSP Emulator for iOS",
+      "version": "1.19.3",
+      "versionDate": "2025-07-15",
+      "versionDescription": "Improved performance, updated compatibility with more PSP titles, and bug fixes for iOS builds.",
+      "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.19.3/PPSSPP-iOS-v1.19.3.ipa",
+      "localizedDescription": "PPSSPP is a fast and portable PSP emulator that allows you to play your favorite PSP games on iOS. Supports customizable controls, save states, texture scaling, and high-resolution rendering.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/1200px-PPSSPP_logo.svg.png",
+      "tintColor": "#1db954",
+      "size": 290000000
     }
   ],
   "news": [
