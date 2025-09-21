@@ -11,7 +11,7 @@
       "developerName": "Riley Testut",
       "subtitle": "Classic Game Emulator",
       "version": "1.6",
-      "versionDate": "2025-09-20",
+      "versionDate": "2024-07-10",
       "versionDescription": "Added new N64 support and bug fixes.",
       "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
       "localizedDescription": "Delta is a powerful and flexible emulator for iOS devices, supporting multiple classic consoles including Game Boy, Game Boy Advance, NES, SNES, N64, and more.",
@@ -20,18 +20,18 @@
       "size": 84000000
     },
     {
-      "name": "LiveContainer",
-      "bundleIdentifier": "com.kdt.livecontainer",
-      "developerName": "HugeBlack",
-      "subtitle": "Run iOS Apps Without Installing",
-      "version": "3.6.1",
-      "versionDate": "2025-09-17",
-      "versionDescription": "Minor release fixing symbol offset cache issues and improving window controls.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
-      "localizedDescription": "LiveContainer is an app launcher that allows you to run iOS apps without actually installing them. It supports unlimited apps, multiple versions, and JIT-less mode for non-jailbroken devices.",
-      "iconURL": "https://avatars.githubusercontent.com/u/206676373?s=200&v=4",
-      "tintColor": "#4c63af",
-      "size": 840000000
+      "name": "Rewound",
+      "bundleIdentifier": "com.louisanslow.record",
+      "developerName": "Louis Anslow",
+      "subtitle": "iPod-style Music Player",
+      "version": "2019.8",
+      "versionDate": "2020-03-24",
+      "versionDescription": "Minor release with bug fixes, smoother scrolling, and improved skin support.",
+      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/Rewound.ipa",
+      "localizedDescription": "Rewound is a customizable iPod-style music player for iOS. It lets you bring back the classic iPod interface, apply skins, and control your music with a nostalgic design.",
+      "iconURL": "https://archive.org/download/rewound/Rewound17.png",
+      "tintColor": "#FFFFFF",
+      "size": 110000000
     }
   ],
   "news": [
