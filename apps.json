@@ -17,7 +17,7 @@
       "localizedDescription": "Delta is a powerful and flexible emulator for iOS devices, supporting multiple classic consoles including Game Boy, Game Boy Advance, NES, SNES, N64, and more.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delta_Emulator_Logo.jpg",
       "tintColor": "#7532a8",
-      "size": 83.7
+      "size": 50000000
     },
     {
       "name": "LiveContainer",
@@ -31,7 +31,7 @@
       "localizedDescription": "LiveContainer is an app launcher that allows you to run iOS apps without actually installing them. It supports unlimited apps, multiple versions, and JIT-less mode for non-jailbroken devices.",
       "iconURL": "https://avatars.githubusercontent.com/u/206676373?s=200&v=4",
       "tintColor": "#4c63af",
-      "size": 50000000
+      "size": 840000000
     }
   ],
   "news": [
