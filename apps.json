@@ -30,7 +30,7 @@
       "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.19.3/PPSSPP-iOS-v1.19.3.ipa",
       "localizedDescription": "PPSSPP is a fast and portable PSP emulator that allows you to play your favorite PSP games on iOS. Supports customizable controls, save states, texture scaling, and high-resolution rendering.",
       "iconURL": "https://img.utdstc.com/icon/6d6/693/6d6693e1aa87b540a0a8d33b04b1edb4c65619b45f0c974699d46d4c08cd2e42:200",
-      "tintColor": "#1db954",
+      "tintColor": "#174e91",
       "size": 290000000
     }
   ],
