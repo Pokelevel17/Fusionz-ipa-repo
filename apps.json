@@ -60,6 +60,34 @@
       "iconURL": "https://i.imgur.com/S9WS2C2.png",
       "tintColor": "#03336e",
       "size": 690000000
+    },
+    {
+      "name": "DolphiniOS Beta",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "developerName": "OatmealDome",
+      "subtitle": "GameCube & Wii Emulator for iOS",
+      "version": "4.0.0b8",
+      "versionDate": "2025-01-19",
+      "versionDescription": "Rewritten codebase with improved performance and new features.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
+      "localizedDescription": "DolphiniOS is a port of the Dolphin Emulator to iOS, allowing you to play GameCube and Wii games on your device. This beta version includes a rewritten codebase with improved performance and new features.",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+      "tintColor": "#ffbb3d",
+      "size": 15830129
+    },
+    {
+      "name": "DolphiniOS",
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
+      "developerName": "OatmealDome",
+      "subtitle": "GameCube & Wii Emulator for iOS",
+      "version": "3.2.1",
+      "versionDate": "2025-01-19",
+      "versionDescription": "Stable release with improved performance and compatibility for GameCube and Wii games on iOS.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-Universal-3.2.1-213.ipa",
+      "localizedDescription": "DolphiniOS is the official Dolphin Emulator port for iOS, allowing you to play GameCube and Wii games with high compatibility. This stable release includes all major features and improvements from development builds.",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "tintColor": "#41cdff",
+      "size": 80253902
     }
   ],
   "news": [
