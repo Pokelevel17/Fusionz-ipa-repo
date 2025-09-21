@@ -32,6 +32,20 @@
       "iconURL": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/05/11/6453f4151b618.png",
       "tintColor": "#174e91",
       "size": 290000000
+    },
+    {
+      "name": "ActiveGS",
+      "bundleIdentifier": "com.yoshisuga.activeGS",
+      "developerName": "yoshisuga & Olivier Goguel",
+      "subtitle": "Apple IIgs Emulator for iOS",
+      "version": "2021.9",
+      "versionDate": "2025-07-15",
+      "versionDescription": "Updated core for improved Apple IIgs emulation, better disk compatibility, and performance fixes on iOS.",
+      "downloadURL": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
+      "localizedDescription": "ActiveGS is an Apple IIgs emulator for iOS. It allows you to run Apple IIgs software and games with high compatibility, disk image support, save states, and an on-screen keyboard and joystick.",
+      "iconURL": "https://i.imgur.com/7LuLkoR.png",
+      "tintColor": "#00070f",
+      "size": 16593403
     }
   ],
   "news": [
