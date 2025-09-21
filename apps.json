@@ -13,11 +13,11 @@
       "version": "1.6",
       "versionDate": "2025-09-20",
       "versionDescription": "Added new N64 support and bug fixes.",
-      "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta.ipa",
+      "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
       "localizedDescription": "Delta is a powerful and flexible emulator for iOS devices, supporting multiple classic consoles including Game Boy, Game Boy Advance, NES, SNES, N64, and more.",
-      "iconURL": "https://raw.githubusercontent.com/rileytestut/Delta/master/Delta/Assets/AppIcon.appiconset/Delta-icon.png",
-      "tintColor": "#FF9500",
-      "size": 25000000
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Delta_Emulator_Logo.jpg",
+      "tintColor": "#7532a8",
+      "size": 83.7
     },
     {
       "name": "LiveContainer",
