@@ -46,6 +46,20 @@
       "iconURL": "https://i.imgur.com/7LuLkoR.png",
       "tintColor": "#00070f",
       "size": 16593403
+    },
+    {
+      "name": "Ready",
+      "bundleIdentifier": "at.spiderlab.c64",
+      "developerName": "T-Pau",
+      "subtitle": "Home Computer Emulator for iPad",
+      "version": "1.6.1",
+      "versionDate": "2024-05-09",
+      "versionDescription": "Added preliminary support for ZX Spectrum 128k and improved VIC-20 emulation.",
+      "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6.1/Ready-1.6.1.ipa",
+      "localizedDescription": "Ready is an open-source emulator for classic 8-bit home computers, including Commodore 64, VIC-20, C16, Plus/4, and ZX Spectrum. It provides a native iPad experience with support for disk images, keyboard input, and on-screen controls.",
+      "iconURL": "https://i.imgur.com/S9WS2C2.png",
+      "tintColor": "#03336e",
+      "size": 690000000
     }
   ],
   "news": [
