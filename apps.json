@@ -88,6 +88,34 @@
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
       "tintColor": "#41cdff",
       "size": 80253902
+    },
+    {
+      "name": "iNDS",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName": "iNDS Team",
+      "subtitle": "Nintendo DS Emulator for iOS",
+      "version": "1.10.8",
+      "versionDate": "2025-01-19",
+      "versionDescription": "Stable release with improved performance, bug fixes, and full Nintendo DS compatibility on iOS.",
+      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "localizedDescription": "iNDS is a full-featured Nintendo DS emulator for iOS. Play your favorite DS games with save states, fast-forward, cheat support, and customizable controls.",
+      "iconURL": "https://i.imgur.com/DbWJeF8.png",
+      "tintColor": "#a6130c",
+      "size": 8553596
+    },
+    {
+      "name": "MAME4iOS",
+      "bundleIdentifier": "com.example.mame4ios",
+      "developerName": "Yoshisuga",
+      "subtitle": "Arcade Emulator for iOS",
+      "version": "2022.5",
+      "versionDate": "2025-01-19",
+      "versionDescription": "Stable release with improved arcade game support, controller compatibility, and bug fixes.",
+      "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
+      "localizedDescription": "MAME4iOS is a full-featured arcade emulator for iOS, letting you play thousands of classic arcade games with support for save states, on-screen controls, and external controllers.",
+      "iconURL": "https://i.imgur.com/gZCjhLl.png",
+      "tintColor": "#51bacc",
+      "size": 52332306
     }
   ],
   "news": [
