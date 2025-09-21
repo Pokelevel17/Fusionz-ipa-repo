@@ -116,6 +116,20 @@
       "iconURL": "https://i.imgur.com/gZCjhLl.png",
       "tintColor": "#51bacc",
       "size": 52332306
+    },
+    {
+      "name": "GBA4iOS",
+      "bundleIdentifier": "com.rileytestut.GBA4iOS",
+      "developerName": "Riley Testut",
+      "subtitle": "Game Boy Advance Emulator for iOS",
+      "version": "2.1",
+      "versionDate": "2025-01-19",
+      "versionDescription": "Stable release with improved GBA game compatibility, controller support, and bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/demo/GBA4iOS.ipa",
+      "localizedDescription": "GBA4iOS is a fully-featured Game Boy Advance emulator for iOS, allowing you to play your favorite GBA games with save states, cheat codes, fast-forward, and customizable on-screen controls.",
+      "iconURL": "https://i.imgur.com/SBrqO9g.png",
+      "tintColor": "#78209d",
+      "size": 7924507
     }
   ],
   "news": [
